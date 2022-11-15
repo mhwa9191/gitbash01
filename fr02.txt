@@ -1,1 +1,3 @@
 friend 02
+friend cmcm
+friend
