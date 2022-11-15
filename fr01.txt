@@ -1,1 +1,2 @@
 friend cm
+friend 01 cm
